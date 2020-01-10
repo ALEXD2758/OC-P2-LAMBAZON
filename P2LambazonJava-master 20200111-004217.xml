@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="P2LambazonJava-master" project="P2LambazonJava-master" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="com.openclassrooms.shop.domain.CartTest" time="0.338">
+    <testcase name="getTotalValue_threeDifferentProductsAdded_totalCalculated" classname="com.openclassrooms.shop.domain.CartTest" time="0.336"/>
+    <testcase name="findProductInCartLines_oneProductAdded_productIsFound" classname="com.openclassrooms.shop.domain.CartTest" time="0.001"/>
+    <testcase name="addItem_twoItemsOfSameProduct_oneLineWithQuantityOfTwoCreated" classname="com.openclassrooms.shop.domain.CartTest" time="0.0"/>
+    <testcase name="getAverageValue_twoDifferentProductsAdded_averageCalculated" classname="com.openclassrooms.shop.domain.CartTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="com.openclassrooms.shop.service.ProductServiceTest" time="0.0">
+    <testcase name="getProductById_searchedForId3_productReturned" classname="com.openclassrooms.shop.service.ProductServiceTest" time="0.0"/>
+    <testcase name="updateProductQuantities_3ProductsUpdates_quantitiesUpdated" classname="com.openclassrooms.shop.service.ProductServiceTest" time="0.0"/>
+  </testsuite>
+</testrun>
