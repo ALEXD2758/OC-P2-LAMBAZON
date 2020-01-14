@@ -41,6 +41,7 @@ public class Cart {
 
 
     /**
+     * Get the total value of a cart by multiplying the product's price by its quantity + the precedents products
      * @return total value of a cart
      */
     public double getTotalValue()
@@ -54,6 +55,7 @@ public class Cart {
 	}
 
     /**
+     * Calculate the average value calculated by SubTotal & Quantity
      * @return Get average value of a cart
      */
     public double getAverageValue()
