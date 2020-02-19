@@ -51,7 +51,7 @@ public class ProductService {
 	
 
 	/**
-	 * Update the quantities left for each product in the inventory depending on the ordered quantities
+	 * Update the quantities left for each product in the inventory depending of ordered the quantities
 	 * @param productId ID of the product to be updated
 	 */
 	public void updateProductQuantities(Long productId, int quantity){

@@ -1,4 +1,6 @@
 # P2LambazonJava
-This is the definitive code for OpenClassrooms Java Backend Developer path Project 2.
+This is the starting code for OpenClassrooms Java Backend Developer path Project 2
 
-If you have any question, feel free to contact me.
+Do not forget to *Fork* this project before cloning it, so that you can work on your own repository.
+
+Use Maven to get the project up and running.
